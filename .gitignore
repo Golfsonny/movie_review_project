@@ -1,0 +1,12 @@
+# Python 가상환경 관련 폴더
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# MacOS 시스템 파일
+.DS_Store
+
+# Docker 관련 파일 (필요시)
+data/
+
